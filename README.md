@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=ElSueno323&show_icons=true&theme=radical&count_private=true" /></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElSueno323&theme=radical&hide_langs_below=8&count_private=true" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElSueno323&layout=pie" /></td>
     </tr>
   </table>
   </div>
