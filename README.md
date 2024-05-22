@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <table >
     <tr>
-            <td><img src="https://github-readme-stats.vercel.app/api?username=ElSueno323&show_icons=true&theme=cobalt&rank_icon=github" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=ElSueno323&show_icons=true&theme=cobalt&rank_icon=github" /></td>
       <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElSueno323&theme=cobalt&layout=pie&hide=TeX,PostScript,HTML" /></td>
     </tr>
   </table>
